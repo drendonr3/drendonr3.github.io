@@ -111,11 +111,11 @@ img{
 }
 .navegacion{
     width: max-content;
+    margin: 0 auto;
 }
 @media(min-width:768px){
     .navegacion{
         display: flex;
-        justify-content:space-between;
         gap: 1rem;
     }
 }
